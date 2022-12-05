@@ -1,5 +1,5 @@
-.body {
-  background-color: lightsalmon;
+body {
+  background-color: rgb(216, 169, 15);
 }
 .header .container {
   justify-content: center;
